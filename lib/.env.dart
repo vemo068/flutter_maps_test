@@ -1,2 +1,2 @@
-const String apikey = "AIzaSyB6hlXFqg9xe54jHGgi402DiKyTXfAARmY";
-const String apikey2 = "AIzaSyDXoRFtJtphNvLZ88AFFA0twPjalqc7da8";
+const String apikey = "AIzaSyB6hlXFqgiKyTXfAARmY";
+const String apikey2 = "AIzaSyDXoRFtJPjalqc7da8";
